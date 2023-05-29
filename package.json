@@ -1,0 +1,23 @@
+{
+  "name": "@solql/hardhat",
+  "version": "0.0.2",
+  "description": "SolQL package to be used with a standalone Hardhat project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolQL/hardhat.git"
+  },
+  "author": "sha256yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolQL/hardhat/issues"
+  },
+  "homepage": "https://github.com/SolQL/hardhat#readme",
+  "dependencies": {
+    "hardhat": "^2.14.0"
+  }
+}
